@@ -1,0 +1,17 @@
+# Credentials: never commit
+secrets.h
+
+# Old version with credentials hard-coded in the source
+backup/
+
+# Personal drafts
+Report/LinkedIn_post.md
+
+# Build output
+build/
+Report/latex/main.pdf
+Report/latex/*.log
+Report/latex/*.aux
+Report/latex/*.blg
+Report/latex/*.bbl
+.DS_Store
